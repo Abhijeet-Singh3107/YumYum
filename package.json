@@ -7,7 +7,7 @@
     "build": "parcel build index.html",
     "test": "jest"
   },
-  "author": "Gourav Chaudhary",
+  "author": "Abhijeet Singh",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.3.11",
