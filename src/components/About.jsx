@@ -18,11 +18,11 @@ const AboutMe = () => {
               </div>
             </div>
             <h1 className="text-4xl font-bold bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">
-              Gourav Chaudhary
+              Abhijeet Singh
             </h1>
             <div className="flex items-center mt-2 text-gray-600">
               <MapPin size={16} className="mr-1" />
-              <span>Himachal Pradesh, India</span>
+              <span>Uttar Pradesh, India</span>
             </div>
           </div>
 
@@ -55,10 +55,10 @@ const AboutMe = () => {
                 
                 {/* Contact Information */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
-                  <ContactItem icon={<Mail className="text-pink-500" />} text="gourav@example.com" />
-                  <ContactItem icon={<Phone className="text-pink-500" />} text="+91 98765 43210" />
-                  <ContactItem icon={<Github className="text-pink-500" />} text="github.com/gourav" />
-                  <ContactItem icon={<Linkedin className="text-pink-500" />} text="linkedin.com/in/gourav" />
+                  <ContactItem icon={<Mail className="text-pink-500" />} text="abhijeetsingh3102@gmail.com" />
+                  <ContactItem icon={<Phone className="text-pink-500" />} text="+91 74589 xxxxx" />
+                  <ContactItem icon={<Github className="text-pink-500" />} text="github.com/abhijeet-Singh3107/" />
+                  <ContactItem icon={<Linkedin className="text-pink-500" />} text="linkedin.com/in/abhijeetsingh31/" />
                 </div>
               </div>
             )}
@@ -67,7 +67,7 @@ const AboutMe = () => {
               <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                 <SkillCard title="Frontend" icon={<Code />} skills={['React', 'HTML5', 'CSS3', 'JavaScript']} />
                 <SkillCard title="Backend" icon={<Code />} skills={['Node.js', 'Express', 'MongoDB', 'SQL']} />
-                <SkillCard title="Tools" icon={<Briefcase />} skills={['Git', 'VS Code', 'Figma', 'Docker']} />
+                <SkillCard title="Tools" icon={<Briefcase />} skills={['Git', 'VS Code']} />
               </div>
             )}
 
