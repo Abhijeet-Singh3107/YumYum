@@ -66,7 +66,7 @@ const Footer = () => {
                 <div className="my-8 flex flex-wrap justify-center gap-6 text-sm">
                     {/* GitHub */}
                     <a
-                        href="https://github.com/GouravSittam"
+                        href="github.com/abhijeet-Singh3107/"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="GitHub"
@@ -85,7 +85,7 @@ const Footer = () => {
 
                     {/* Twitter/X */}
                     <a
-                        href="https://x.com/Gouravv_c"
+                        href=""
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="X/Twitter"
@@ -104,7 +104,7 @@ const Footer = () => {
 
                     {/* LinkedIn */}
                     <a
-                        href="https://www.linkedin.com/in/gouravsittam/"
+                        href="https://www.linkedin.com/in/abhijeetsingh31/"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="LinkedIn"
@@ -123,7 +123,7 @@ const Footer = () => {
 
                     {/* Facebook */}
                     <a
-                        href="https://www.facebook.com/share/1FNBxJqc9y/?mibextid=wwXIfr"
+                        href=""
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="Facebook"
@@ -142,7 +142,7 @@ const Footer = () => {
 
                     {/* Instagram */}
                     <a
-                        href="https://www.instagram.com/gouravv.c/"
+                        href=""
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="Instagram"
@@ -217,7 +217,7 @@ const Footer = () => {
                         {new Date().getFullYear()} YumYum - Food Delivery App. All rights reserved.
                     </span>
                     <span className="text-gray-500 block text-xs">
-                        Made with by Gourav Chaudhary
+                        Made with by Abhijeet Singh
                     </span>
                 </div>
             </div>
